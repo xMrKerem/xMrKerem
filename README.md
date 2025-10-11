@@ -20,6 +20,12 @@ Kod yazarken yalnızca “çalışan” uygulamalar değil, **güvenli, ölçekl
 
 ---
 
+🎬 **OpenAnime** organizasyonunda ekip üyesi olarak yer alıyor, platformun geliştirilmesi ve iyileştirilmesine katkı sağlıyorum.  
+🔗 [OpenAnime](https://openani.me)
+🔗 [OpenAnime GitHub Organizasyonu](https://github.com/OpenAnime)
+
+---
+
 ## 🎯 Hedeflerim
 
 Kariyerimi **yazılım geliştirme** alanında derinleştirirken, **siber güvenlik bilincini** her satır koda entegre eden bir yazılımcı olmayı hedefliyorum.  
