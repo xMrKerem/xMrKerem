@@ -17,12 +17,10 @@ Kod yazarken yalnızca “çalışan” uygulamalar değil, **güvenli, ölçekl
 - 🐍 **Otomasyon ve Araçlar:** Python, Bash Script  
 - ☁️ **Versiyon Kontrol ve DevOps:** Git, GitHub, CI/CD temelleri  
 
-
 ---
 
-🎬 **OpenAnime** organizasyonunda ekip üyesi olarak yer alıyor, platformun geliştirilmesi ve iyileştirilmesine katkı sağlıyorum.  
-🔗 [OpenAnime](https://openani.me)
-🔗 [OpenAnime GitHub Organizasyonu](https://github.com/OpenAnime)
+🎬 **OpenAnime** organizasyonunda ekip üyesi olarak yer alıyor, platformun geliştirilmesi ve iyileştirilmesine katkı sağlıyorum. 
+🔗 [OpenAnime](https://github.com/OpenAnime)
 
 ---
 
