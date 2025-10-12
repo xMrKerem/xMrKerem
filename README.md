@@ -48,6 +48,7 @@ Her gün biraz daha fazla öğrenmeye, gelişmeye ve paylaşmaya odaklanıyorum.
 - ✉️ **E-posta:** gorkem@duck.com  
 - [💼 **LinkedIn**](https://www.linkedin.com/in/görkem-kerem-aydın)  
 - [🐙 **GitHub**](https://github.com/xMrKerem)
+- **Discord:** xmrkerem
 
 ---
 
