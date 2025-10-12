@@ -22,6 +22,7 @@ Kod yazarken yalnızca “çalışan” uygulamalar değil, **güvenli, ölçekl
 ## 🚀 Bulunduğum Projeler
 
 🎬 **OpenAnime** organizasyonunda ekip üyesi olarak yer alıyor, platformun geliştirilmesi ve iyileştirilmesine katkı sağlıyorum. 
+
 🔗 [OpenAnime](https://github.com/OpenAnime)
 
 ---
