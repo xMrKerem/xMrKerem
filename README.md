@@ -10,7 +10,7 @@ Kod yazarken yalnızca “çalışan” uygulamalar değil, **güvenli, ölçekl
 
 - 🧠 **Yazılım Geliştirme:** Web, mobil ve masaüstü uygulamalar  
 - 🔐 **Siber Güvenlik:** Veri güvenliği, ağ güvenliği, güvenli kodlama  
-- ⚙️ **Veritabanı Yönetimi:** SQLite, MySQL, MongoDB  
+- ⚙️ **Veritabanı Yönetimi:** SQLite, MySQL, MongoDB, MSSQL  
 - 🌐 **Web Teknolojileri:** HTML, CSS, JavaScript, TypeScript, Svelte  
 - 📱 **Mobil Geliştirme:** React Native, Kotlin  
 - 💾 **Masaüstü Uygulamaları:** C#, Java (JavaFX), .NET  
