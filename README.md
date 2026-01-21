@@ -21,9 +21,9 @@ Kod yazarken yalnızca “çalışan” uygulamalar değil, **güvenli, ölçekl
 
 ## 🚀 Bulunduğum Projeler
 
-🎬 **OpenAnime** organizasyonunda ekip üyesi olarak yer alıyor, platformun geliştirilmesi ve iyileştirilmesine katkı sağlıyorum. 
+🎬 <a href="https://github.com/OpenAnime">**OpenAnime**</a> organizasyonunda ekip üyesi olarak yer alıyor, platformun geliştirilmesi ve iyileştirilmesine katkı sağlıyorum. 
 
-🔗 [OpenAnime](https://github.com/OpenAnime)
+🎓 <a href="https://github.com/InternGuard-AI">**TÜBİTAK 2209-B**</a> kapsamında **geliştirilen** projede **Proje Yürütücüsü** olarak ekibe liderlik ediyor; sistem mimarisini, Backend ve AI süreçlerini yönetiyorum.
 
 ---
 
