@@ -25,7 +25,7 @@ Kod yazarken yalnızca “çalışan” uygulamalar değil, **güvenli, ölçekl
 
 🎓 <a href="https://github.com/InternGuard-AI">**TÜBİTAK 2209-B**</a> kapsamında **geliştirilen** projede **Proje Yürütücüsü** olarak ekibe liderlik ediyor; sistem mimarisini, Backend ve AI süreçlerini yönetiyorum.
 
-🤖 <a href="https://github.com/xMrKerem/visually">Visually</a> adlı çok amaçlı Discord botunun Geliştiricisi olarak; yapay zeka destekli sohbet modülünü, Canvas tabanlı dinamik RPG savaş motorunu ve kapsamlı sunucu moderasyon sistemlerini sıfırdan inşa ediyorum.
+🤖 <a href="https://github.com/xMrKerem/visually">**Visually**</a> adlı çok amaçlı Discord botunun Geliştiricisi olarak; yapay zeka destekli sohbet modülünü, Canvas tabanlı dinamik RPG savaş motorunu ve kapsamlı sunucu moderasyon sistemlerini sıfırdan inşa ediyorum.
 
 ---
 
