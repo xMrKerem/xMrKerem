@@ -2,7 +2,6 @@
 
 Hello! I'm a Full-Stack Developer with a solid background in Information Security. I have a true passion for creating dynamic, secure, and user-friendly applications across web and mobile platforms. I generally use TypeScript, Node.js, and C# in my backend projects, while Svelte is my absolute go-to for frontend development. Coming from a cybersecurity discipline, I don't just build apps; I focus on making them scalable and bulletproof. I truly enjoy the process of taking a project from a raw idea to a fully functional and polished product, and I believe that every detail counts when it comes to delivering a secure and flawless user experience!.
 
----
 
 ## Languages and Tools
 
@@ -54,13 +53,12 @@ Hello! I'm a Full-Stack Developer with a solid background in Information Securit
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
----
 
 ## 🎯 My Goals
 
 My ultimate goal is to evolve as a versatile Software Engineer who bridges the gap between top-tier user experiences and rock-solid security. I'm constantly pushing my limits in Full-Stack development and exploring ways to integrate smart solutions into real-world applications. I aim to architect scalable, high-performance systems that are "secure by design" from the very first line of code!
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -69,7 +67,6 @@ My ultimate goal is to evolve as a versatile Software Engineer who bridges the g
   <a href="https://github.com/xMrKerem/github-readme-stats"><img alt="xMrKerem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMrKerem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
 
----
 
 ## 📫 Contact
 
