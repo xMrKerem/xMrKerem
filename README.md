@@ -63,8 +63,8 @@ My ultimate goal is to evolve as a versatile Software Engineer who bridges the g
 ## 📊 GitHub Stats
 
   <p align="center">
-        <a href="https://github.com/xMrKerem/github-readme-stats"><img alt="xMrKerem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMrKerem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/xMrKerem/github-readme-stats"><img alt="xMrKerem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMrKerem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/xMrKerem/github-readme-stats"><img alt="xMrKerem's Github Stats" src="https://github-readme-stats-six.vercel.app/api?username=xMrKerem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/xMrKerem/github-readme-stats"><img alt="xMrKerem's Top Languages" src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=xMrKerem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
 
 
